@@ -5,8 +5,8 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 clear
 mpv /$HOME/jarvis-welcome/terminal.mp3
 clear
-echo -e "Created By \e[5mAmshenShanu"
-echo "----------------------------" | lolcat
+echo -e "DEVELOPED BY \e[5mAZAKIOS TEAM"
+echo "-----SPECIAL THANKS TO ANU/ACEJAFIIMACE/DRH------------" | lolcat
 echo "
 o      o        8
 8      8        8
